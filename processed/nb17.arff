@@ -1,6 +1,6 @@
 @relation nb17-weka.filters.unsupervised.attribute.Remove-R3-weka.filters.unsupervised.attribute.Remove-R3
 
-@attribute CLINICS {0,1.2}
+@attribute CLINICS {0,1,2}
 @attribute NMYC    {0,1}
 @attribute RISK    {0,1}
 @attribute PTPRZ1  {0,1}
